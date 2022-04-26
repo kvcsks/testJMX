@@ -1,0 +1,1 @@
+jmeter -n -t blazedemo.jmx
